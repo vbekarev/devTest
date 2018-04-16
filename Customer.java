@@ -9,7 +9,6 @@ import java.util.Set;
  * @version 1.0
  */
 public class Customer {
-    private String name;
     private Set projects;
 
     public String getName() {
